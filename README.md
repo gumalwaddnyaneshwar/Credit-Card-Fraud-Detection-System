@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 ---
 
-## ✍️ STEP 3: Add How to Run
+##  Add How to Run
 
 ```md
 ## ▶️ Run the Application
@@ -108,7 +108,7 @@ streamlit run app.py
 
 
 ```
-## ✍️ STEP 4: Add PCA Explanation (VERY IMPORTANT FOR INTERVIEWS)
+##  Add PCA Explanation (VERY IMPORTANT FOR INTERVIEWS)
 
 ```md
 ## ❓ Why PCA Features (V1–V28)?
