@@ -79,40 +79,30 @@ CREDIT-CARD-FRAUD-DETECTION/
 ├── README.md
 ├── requirements.txt
 
-
+---
 
 ## ⚙️ Installation
 
 1. Clone the repository:
-``` bash
+ 
 git clone https://github.com/gumalwaddnyaneshwar/Credit-Card-Fraud-Detection-System.git
 cd credit-card-fraud-detection
 
-```
+
 ##  Install Dependencies
 
 pip install -r requirements.txt
 
+---
 
+## ▶️Run the Application
+
+streamlit run app.py
 
 ---
 
-##  Add How to Run
-
-```md
-## ▶️Run the Application
-
-```bash
-streamlit run app.py
-
-
-
-```
-##  Add PCA Explanation (VERY IMPORTANT FOR INTERVIEWS)
-
-```md
 ##  Why PCA Features (V1–V28)?
-```
+
 To protect customer privacy, original transaction features were transformed using
 **Principal Component Analysis (PCA)**.
 
@@ -122,9 +112,9 @@ To protect customer privacy, original transaction features were transformed usin
 - Improves model performance
 
 Only `Time` and `Amount` are original features.
-```
 
 
+---
 
 
 ## 📌 Future Enhancements
