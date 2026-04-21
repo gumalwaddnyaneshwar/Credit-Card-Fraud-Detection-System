@@ -91,7 +91,7 @@ cd credit-card-fraud-detection
 ```
 ##  Install Dependencies
 
-pip install -r requirments.txt
+pip install -r requirements.txt
 
 
 
