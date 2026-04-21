@@ -85,7 +85,7 @@ CREDIT-CARD-FRAUD-DETECTION/
 
 1. Clone the repository:
 ``` bash
-git clone https://github.com/gumalwaddnyaneshwar/credit-card-fraud-detection.git
+git clone https://github.com/gumalwaddnyaneshwar/Credit-Card-Fraud-Detection-System.git
 cd credit-card-fraud-detection
 
 ```
